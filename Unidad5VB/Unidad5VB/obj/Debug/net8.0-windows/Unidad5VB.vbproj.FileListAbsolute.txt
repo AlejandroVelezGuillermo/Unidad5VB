@@ -1,0 +1,16 @@
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\bin\Debug\net8.0-windows\Unidad5VB.exe
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\bin\Debug\net8.0-windows\Unidad5VB.deps.json
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\bin\Debug\net8.0-windows\Unidad5VB.runtimeconfig.json
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\bin\Debug\net8.0-windows\Unidad5VB.dll
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\bin\Debug\net8.0-windows\Unidad5VB.pdb
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.Unidad5.Form1.resources
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.vbproj.GenerateResource.cache
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.AssemblyInfoInputs.cache
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.AssemblyInfo.vb
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.vbproj.CoreCompileInputs.cache
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.dll
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\refint\Unidad5VB.dll
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.pdb
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\Unidad5VB.genruntimeconfig.cache
+C:\Users\RedSo\Videos\Unidad5VB\Unidad5VB\obj\Debug\net8.0-windows\ref\Unidad5VB.dll
